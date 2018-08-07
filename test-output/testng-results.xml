@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[The application url is :- https://www.qainfotech.com]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome
+]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- STEP01_LAUNCH_APPLICATION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[launching chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[The application url is :- https://www.qainfotech.com]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome
+]]>
+    </line>
+    <line>
+      <![CDATA[launched chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- VERIFY_SEARCH_FUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that search functionalityh is working properly]]>
+    </line>
+    <line>
+      <![CDATA[providing search input{}{{}{}{}]]>
+    </line>
+    <line>
+      <![CDATA[search functionality is working properly]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTINGSERVICESMENU *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on service menu]]>
+    </line>
+    <line>
+      <![CDATA[service section is visible on clicking it]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTINGVERTICAL *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying vertical section of the menu]]>
+    </line>
+    <line>
+      <![CDATA[vertical section is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTINGINNOVATION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that innovation menu is working properly]]>
+    </line>
+    <line>
+      <![CDATA[innvoation section is displayed on clicking the innovation menu]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- CHECKINGTEAM *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that team section is being displayed]]>
+    </line>
+    <line>
+      <![CDATA[Team section is  displayed when users click on the team menu button]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTING_NEWS *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that news section is being displayed when user hits the news button]]>
+    </line>
+    <line>
+      <![CDATA[News section is displayed on clicking on news ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTINGCONTACT *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that contact form is being displayed when users click on contact menu]]>
+    </line>
+    <line>
+      <![CDATA[successfully landed on contact section of page ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- VERIFY_VERTICAL_SECTION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that vertical section is being displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicking on healthcare section ]]>
+    </line>
+    <line>
+      <![CDATA[Healthcare submenu of Vertical section is redirecting to another page on clicking  healthe care ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- VERIFY_DOWNLOAD_SECTION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[verifying that download section is working ]]>
+    </line>
+    <line>
+      <![CDATA[going to download page]]>
+    </line>
+    <line>
+      <![CDATA[working successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser selected from 'Config.properties' file: chrome]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="190352" started-at="2018-08-07T13:04:46Z" finished-at="2018-08-07T13:07:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="190352" started-at="2018-08-07T13:04:46Z" finished-at="2018-08-07T13:07:57Z">
+      <class name="com.qait.acs.tests.Qa_WebsiteTest">
+        <test-method status="PASS" signature="Start_Test_Session()[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="Start_Test_Session" is-config="true" duration-ms="25308" started-at="2018-08-07T18:34:46Z" finished-at="2018-08-07T18:35:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The application url is :- https://www.qainfotech.com]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Start_Test_Session -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2018-08-07T18:35:12Z" finished-at="2018-08-07T18:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.Step01_Launch_Application()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- STEP01_LAUNCH_APPLICATION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="Step01_Launch_Application()[pri:1, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="Step01_Launch_Application" duration-ms="7366" started-at="2018-08-07T18:35:12Z" description="launching brwoser" finished-at="2018-08-07T18:35:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[launching chrome browser]]>
+            </line>
+            <line>
+              <![CDATA[The application url is :- https://www.qainfotech.com]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome
+]]>
+            </line>
+            <line>
+              <![CDATA[launched chrome browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Step01_Launch_Application -->
+        <test-method status="PASS" signature="verify_search_functionality()[pri:2, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="verify_search_functionality" duration-ms="46454" started-at="2018-08-07T18:35:19Z" description="performing negative testing for search box" finished-at="2018-08-07T18:36:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that search functionalityh is working properly]]>
+            </line>
+            <line>
+              <![CDATA[providing search input{}{{}{}{}]]>
+            </line>
+            <line>
+              <![CDATA[search functionality is working properly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_search_functionality -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:35:19Z" finished-at="2018-08-07T18:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_search_functionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- VERIFY_SEARCH_FUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2018-08-07T18:35:19Z" finished-at="2018-08-07T18:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step01_Launch_Application status=SUCCESS method=Qa_WebsiteTest.Step01_Launch_Application()[pri:1, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=launching chrome browser]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.Step01_Launch_Application()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="testingservicesmenu()[pri:3, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="testingservicesmenu" duration-ms="12777" started-at="2018-08-07T18:36:06Z" finished-at="2018-08-07T18:36:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on service menu]]>
+            </line>
+            <line>
+              <![CDATA[service section is visible on clicking it]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingservicesmenu -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:06Z" finished-at="2018-08-07T18:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingservicesmenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTINGSERVICESMENU *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:06Z" finished-at="2018-08-07T18:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_search_functionality status=SUCCESS method=Qa_WebsiteTest.verify_search_functionality()[pri:2, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that search functionalityh is working properly]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_search_functionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2018-08-07T18:36:18Z" finished-at="2018-08-07T18:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testingservicesmenu status=SUCCESS method=Qa_WebsiteTest.testingservicesmenu()[pri:3, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=clicking on service menu]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingservicesmenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:18Z" finished-at="2018-08-07T18:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingvertical()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTINGVERTICAL *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="testingvertical()[pri:4, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="testingvertical" duration-ms="8303" started-at="2018-08-07T18:36:18Z" finished-at="2018-08-07T18:36:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying vertical section of the menu]]>
+            </line>
+            <line>
+              <![CDATA[vertical section is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingvertical -->
+        <test-method status="PASS" signature="testinginnovation()[pri:5, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="testinginnovation" duration-ms="8214" started-at="2018-08-07T18:36:27Z" finished-at="2018-08-07T18:36:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that innovation menu is working properly]]>
+            </line>
+            <line>
+              <![CDATA[innvoation section is displayed on clicking the innovation menu]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testinginnovation -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:27Z" finished-at="2018-08-07T18:36:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testinginnovation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTINGINNOVATION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:27Z" finished-at="2018-08-07T18:36:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testingvertical status=SUCCESS method=Qa_WebsiteTest.testingvertical()[pri:4, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying vertical section of the menu]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingvertical()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="2" started-at="2018-08-07T18:36:35Z" finished-at="2018-08-07T18:36:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testinginnovation status=SUCCESS method=Qa_WebsiteTest.testinginnovation()[pri:5, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that innovation menu is working properly]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testinginnovation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:35Z" finished-at="2018-08-07T18:36:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.checkingteam()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- CHECKINGTEAM *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="checkingteam()[pri:6, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="checkingteam" duration-ms="8227" started-at="2018-08-07T18:36:35Z" finished-at="2018-08-07T18:36:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that team section is being displayed]]>
+            </line>
+            <line>
+              <![CDATA[Team section is  displayed when users click on the team menu button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkingteam -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2018-08-07T18:36:43Z" finished-at="2018-08-07T18:36:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkingteam status=SUCCESS method=Qa_WebsiteTest.checkingteam()[pri:6, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that team section is being displayed]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.checkingteam()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="testing_news()[pri:7, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="testing_news" duration-ms="8467" started-at="2018-08-07T18:36:43Z" finished-at="2018-08-07T18:36:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that news section is being displayed when user hits the news button]]>
+            </line>
+            <line>
+              <![CDATA[News section is displayed on clicking on news ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testing_news -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:43Z" finished-at="2018-08-07T18:36:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testing_news()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTING_NEWS *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="2" started-at="2018-08-07T18:36:52Z" finished-at="2018-08-07T18:36:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testing_news status=SUCCESS method=Qa_WebsiteTest.testing_news()[pri:7, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that news section is being displayed when user hits the news button]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testing_news()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-08-07T18:36:52Z" finished-at="2018-08-07T18:36:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingcontact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTINGCONTACT *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="testingcontact()[pri:8, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="testingcontact" duration-ms="8227" started-at="2018-08-07T18:36:52Z" finished-at="2018-08-07T18:37:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that contact form is being displayed when users click on contact menu]]>
+            </line>
+            <line>
+              <![CDATA[successfully landed on contact section of page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingcontact -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="2" started-at="2018-08-07T18:37:00Z" finished-at="2018-08-07T18:37:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testingcontact status=SUCCESS method=Qa_WebsiteTest.testingcontact()[pri:8, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that contact form is being displayed when users click on contact menu]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.testingcontact()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2018-08-07T18:37:00Z" finished-at="2018-08-07T18:37:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_vertical_section()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- VERIFY_VERTICAL_SECTION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="verify_vertical_section()[pri:9, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="verify_vertical_section" duration-ms="21923" started-at="2018-08-07T18:37:00Z" finished-at="2018-08-07T18:37:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that vertical section is being displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicking on healthcare section ]]>
+            </line>
+            <line>
+              <![CDATA[Healthcare submenu of Vertical section is redirecting to another page on clicking  healthe care ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_vertical_section -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="2" started-at="2018-08-07T18:37:22Z" finished-at="2018-08-07T18:37:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_vertical_section status=SUCCESS method=Qa_WebsiteTest.verify_vertical_section()[pri:9, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that vertical section is being displayed]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_vertical_section()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2018-08-07T18:37:22Z" finished-at="2018-08-07T18:37:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_download_section()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- VERIFY_DOWNLOAD_SECTION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="verify_download_section()[pri:10, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="verify_download_section" duration-ms="34353" started-at="2018-08-07T18:37:22Z" finished-at="2018-08-07T18:37:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying that download section is working ]]>
+            </line>
+            <line>
+              <![CDATA[going to download page]]>
+            </line>
+            <line>
+              <![CDATA[working successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_download_section -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2018-08-07T18:37:56Z" finished-at="2018-08-07T18:37:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_download_section status=SUCCESS method=Qa_WebsiteTest.verify_download_section()[pri:10, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350] output=verifying that download section is working ]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.qait.acs.tests.Qa_WebsiteTest.verify_download_section()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.qait.acs.tests.Qa_WebsiteTest@548e7350]" name="close_Test_Session" is-config="true" duration-ms="673" started-at="2018-08-07T18:37:56Z" finished-at="2018-08-07T18:37:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser selected from 'Config.properties' file: chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.qait.acs.tests.Qa_WebsiteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
